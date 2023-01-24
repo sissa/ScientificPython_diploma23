@@ -7,3 +7,10 @@ Lecture1 - basics:
 - lists, tuples, sets
 - control flow
 - functions
+
+Lecture2:
+
+- homework discussion
+- git survival guide
+- sympy
+- decorators 
